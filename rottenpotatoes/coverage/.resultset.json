@@ -1,16 +1,16 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/ubuntu/workspace/bdd-tdd-cycle/rottenpotatoes/app/controllers/application_controller.rb": [
+      "/home/ubuntu/workspace/rottenpotatoes/app/controllers/application_controller.rb": [
         1,
         1,
         null
       ],
-      "/home/ubuntu/workspace/bdd-tdd-cycle/rottenpotatoes/app/helpers/application_helper.rb": [
+      "/home/ubuntu/workspace/rottenpotatoes/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/home/ubuntu/workspace/bdd-tdd-cycle/rottenpotatoes/app/helpers/movies_helper.rb": [
+      "/home/ubuntu/workspace/rottenpotatoes/app/helpers/movies_helper.rb": [
         1,
         null,
         1,
@@ -18,7 +18,7 @@
         null,
         null
       ],
-      "/home/ubuntu/workspace/bdd-tdd-cycle/rottenpotatoes/app/controllers/movies_controller.rb": [
+      "/home/ubuntu/workspace/rottenpotatoes/app/controllers/movies_controller.rb": [
         1,
         null,
         1,
@@ -93,19 +93,19 @@
         null,
         1,
         null,
-        3,
-        3,
+        2,
+        2,
         1,
         1,
         1,
         1,
         null,
-        2,
+        1,
         null,
         null,
         null
       ],
-      "/home/ubuntu/workspace/bdd-tdd-cycle/rottenpotatoes/app/models/movie.rb": [
+      "/home/ubuntu/workspace/rottenpotatoes/app/models/movie.rb": [
         1,
         null,
         1,
@@ -121,20 +121,20 @@
         null
       ]
     },
-    "timestamp": 1459489542
+    "timestamp": 1459545122
   },
   "Cucumber Features": {
     "coverage": {
-      "/home/ubuntu/workspace/bdd-tdd-cycle/rottenpotatoes/app/controllers/application_controller.rb": [
+      "/home/ubuntu/workspace/rottenpotatoes/app/controllers/application_controller.rb": [
         1,
         1,
         null
       ],
-      "/home/ubuntu/workspace/bdd-tdd-cycle/rottenpotatoes/app/helpers/application_helper.rb": [
+      "/home/ubuntu/workspace/rottenpotatoes/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/home/ubuntu/workspace/bdd-tdd-cycle/rottenpotatoes/app/helpers/movies_helper.rb": [
+      "/home/ubuntu/workspace/rottenpotatoes/app/helpers/movies_helper.rb": [
         1,
         null,
         1,
@@ -142,7 +142,7 @@
         null,
         null
       ],
-      "/home/ubuntu/workspace/bdd-tdd-cycle/rottenpotatoes/app/controllers/movies_controller.rb": [
+      "/home/ubuntu/workspace/rottenpotatoes/app/controllers/movies_controller.rb": [
         1,
         null,
         1,
@@ -229,7 +229,7 @@
         null,
         null
       ],
-      "/home/ubuntu/workspace/bdd-tdd-cycle/rottenpotatoes/app/models/movie.rb": [
+      "/home/ubuntu/workspace/rottenpotatoes/app/models/movie.rb": [
         1,
         null,
         1,
@@ -245,6 +245,6 @@
         null
       ]
     },
-    "timestamp": 1459483839
+    "timestamp": 1459545174
   }
 }
